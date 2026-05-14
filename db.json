@@ -1,0 +1,49 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome": "Desenvolvimento de Sistemas",
+            "disciplinas":["WEB III","PAM","BD"],
+            "carga-horaria":1200
+        },
+        {
+            "id":2,
+            "nome": "Administração",
+            "disciplinas":["Planejamento Empresarial","Ações Estratégicas de Marketing","Cálculos Financeiros e Estatísticos "],
+            "carga-horaria":1200
+
+        },
+        {
+            "id":3,
+            "nome": "Eletrotécnica",
+            "disciplinas":["Eletricidade Básica"," Análise de Circuitos Elétricos","Desenho e Simulação Elétrica "],
+            "carga-horaria":1200
+        },
+
+         {
+            "id":4,
+            "nome": "Mecânica",
+            "disciplinas":["Desenho Técnico Mecânico","Processos de Fabricação I "," Metrologia"],
+            "carga-horaria":1200
+        },
+
+         {
+            "id":5,
+            "nome": "Mecatrônica",
+            "disciplinas":["Inglês Instrumental"," Tecnologia de Manufatura e Controle Dimensional I ","Princípios de Eletricidade"],
+            "carga-horaria":1600
+        }
+    ],
+
+    "professores":[
+        {"id":1,"nome": "Molinari"},
+
+        {"id":2,"nome": "Alícia"},
+
+        {"id":3,"nome": "Rovilson"},
+        
+        {"id":4,"nome": "Cidade"}
+
+    ]
+
+}
